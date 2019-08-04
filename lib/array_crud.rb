@@ -13,8 +13,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   array=["1", "2", "3"]
-  ("0")
-  
+  element="0"
+  array<< "element"
 end
 
 def remove_element_from_end_of_array(array)
